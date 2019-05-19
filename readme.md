@@ -4,9 +4,9 @@ A sandbox application for learning new technologies.
 
 [Website Demo](https://node-express-mongo-app.lauwangtatbrian.now.sh/public/)
 
----
+<!-- ---
 
-<!-- ## Screen-Shots
+## Screen-Shots
 
 ### Desktop- Home Page
 
@@ -42,13 +42,17 @@ Run `npm install` **inside your theme directory**
 
 ## Tool Used
 
-- NodeJS
+### Server-side
+
 - Express JS
 - MongoDB
 - MongoDB Cloud Atlas
 - Insomnia
 - Robo3T
 - ZEIT Now
+
+### Client-side
+
 
 ---
 
